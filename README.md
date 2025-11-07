@@ -1,3 +1,5 @@
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Air%20Pressure/%5B%20Multi%20%5D%20-%20%20Air%20Pressure%20Sensor.jpg?raw=true)
+
 # Air-Pressure-Sensor
 **The Air Pressure Sensor** is used to measure atmospheric pressure, which is essential for weather forecasting, altitude measurement, and environmental monitoring. The SPL06-001 is a high-precision, low-power digital barometric pressure and temperature sensor. Designed for compact applications, it supports both I²C and SPI interfaces, making it easy to integrate with various microcontrollers.
 It accurately measures absolute pressure and includes a built-in temperature sensor for compensation, making it ideal for altitude tracking, weather monitoring, and indoor navigation systems.
